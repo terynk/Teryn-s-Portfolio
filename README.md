@@ -1,6 +1,7 @@
 # Teryns-Portfolio
 
 I believe that I have completed all 14 points of the assignment. 
+
 HTML Attributes
 - Appropriate headings and paragraph text
 - Links to external pages
